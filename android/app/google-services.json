@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "558837968429",
+    "project_id": "database-posyandu-71386",
+    "storage_bucket": "database-posyandu-71386.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558837968429:android:b70b0b0cd89953a99312a4",
+        "android_client_info": {
+          "package_name": "com.example.posyandu_cipayung"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "558837968429-bbo72tdt3ovu1f73t2ckvd0brprqtope.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6HzJ_iJmOjI9CkKjB-tgUFoQOTawzPdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "558837968429-bbo72tdt3ovu1f73t2ckvd0brprqtope.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
