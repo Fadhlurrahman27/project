@@ -25,7 +25,7 @@ class _homeState extends State<home> {
       backgroundColor: Color.fromARGB(255, 121, 163, 122),
       appBar: AppBar(
         backgroundColor: Color.fromARGB(255, 51, 104, 53),
-        title: Text('Sistem Informasi Posyandu'),
+        title: Text('Sistem Informasi Posyandu Seruni'),
       ),
       body: SafeArea(
         child: SingleChildScrollView(
